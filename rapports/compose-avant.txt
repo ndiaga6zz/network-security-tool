@@ -1,0 +1,8 @@
+services:
+  network-check:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: netsecure-check:lab
+    stdin_open: true
+    tty: true

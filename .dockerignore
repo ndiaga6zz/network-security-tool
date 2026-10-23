@@ -1,0 +1,11 @@
+.git/
+.github/
+.venv/
+.venv-tp2/
+.pytest_cache/
+__pycache__/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+rapports/
